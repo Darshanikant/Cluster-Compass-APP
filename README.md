@@ -41,6 +41,7 @@
 - Scikit-Learn: K-Means Clustering algorithm for segmentation.
 # Contributing
 Contributions are welcome! Feel free to open a pull request to suggest improvements or report issues.
-
+# App link :- 
+- open any browser pest http://localhost:8506/ hit enter
 # Conclusion
 The Cluster Compass APP simplifies customer segmentation, providing businesses with actionable insights into customer behavior based on income and spending patterns. With a user-friendly interface and visualizations, this tool empowers companies to make data-driven decisions and optimize marketing strategies. Whether for targeted advertising or customer analysis, Cluster Compass offers a straightforward way to enhance customer understanding and drive growth.
